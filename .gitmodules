@@ -1,3 +1,6 @@
 [submodule "ESP2_0"]
 	path = ISE
 	url = git@github.com:Bmewolf/ESP2_0.git
+[submodule "SystemGenerator"]
+	path = SystemGenerator
+	url = git@github.com:Bmewolf/Real-Time-Ephys.git
